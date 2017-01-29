@@ -1,6 +1,6 @@
-## Welcome to my homepage
+Welcome to my homepage
 ====
-### about me
+about me
 ----
 <img src="/images/fyxgz.jpg" class="floatpic" width="400" height="300">
 

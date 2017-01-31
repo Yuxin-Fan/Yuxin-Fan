@@ -8,7 +8,7 @@
 
 
 
-[Korean]:https://www.sfl.pku.edu.cn/
-[Economics]:https://www.nsd.pku.edu.cn/
-[Peking University (PKU, China)]:https://www.pku.edu.cn/
-[PKU, China]:https://www.pku.edu.cn/
+[Korean]:www.sfl.pku.edu.cn/
+[Economics]:www.nsd.pku.edu.cn/
+[Peking University (PKU, China)]:www.pku.edu.cn/
+[PKU, China]:www.pku.edu.cn/
